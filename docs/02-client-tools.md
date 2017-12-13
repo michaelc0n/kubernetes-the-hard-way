@@ -1,7 +1,7 @@
 # Installing the Client Tools
 
 In this lab you will install the command line utilities required to complete this tutorial: [cfssl](https://github.com/cloudflare/cfssl), [cfssljson](https://github.com/cloudflare/cfssl), and [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl).
-> Note: If leveraging a Windows machine install the client tools in vagrant box (I used ubuntu/xenial64)
+> Note: If leveraging a Windows machine install the client tools with a Linux Vagrant box (I used ubuntu/xenial64)
 
 ## Install CFSSL
 
